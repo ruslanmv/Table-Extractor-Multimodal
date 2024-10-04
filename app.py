@@ -154,3 +154,5 @@ def gradio_app():
     iface.launch(debug=True)
 
 
+# Call the Gradio app function to launch the app
+gradio_app()
